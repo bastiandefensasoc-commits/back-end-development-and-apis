@@ -1,0 +1,14 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "Personal profile app built with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
